@@ -57,6 +57,10 @@ const employees = [
 />
 ```
 
+## NPM
+
+```npm i react-typescript-data-table```
+
 ## Version
 
 - npm version 8.11.0
